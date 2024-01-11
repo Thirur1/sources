@@ -1,5 +1,4 @@
-#include <stdio.h>  
-#include <conio.h>  
+#include <stdio.h>   
   
 // create a function  
 void upr_lwr (char *str)  
