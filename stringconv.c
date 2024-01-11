@@ -14,6 +14,7 @@ void upr_lwr (char *str)
 
 int main ()  
 {  
+    printf("welcome to strign conversion\n");
     char str[100]; // declare the size of character array        
     printf (" Enter the upper case string: ");  
     gets (str); // use gets() function to take string  
